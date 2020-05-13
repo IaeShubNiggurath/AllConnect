@@ -1,4 +1,5 @@
-# AllConnect
-### Connect to all open Devices on CML2 over SSH
+# allc
+-------------------------
+### Bash script to connect to all oy the devices on a specific Lab in CML2
 
 
