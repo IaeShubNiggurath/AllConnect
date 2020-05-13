@@ -1,5 +1,5 @@
 # allc
 -------------------------
-### Bash script to connect to all oy the devices on a specific Lab in CML2
+### A script to instant connect to your devices on a Lab in CML2
 
 
