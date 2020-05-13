@@ -15,5 +15,4 @@ NODES=$(curl -s -k -X GET "$URL/$LAB/nodes" -H "$OPT1" -H "$BEAR" | jq -r '.[]' 
 for N in ${NODES}
   do
     mate-terminal --tab -t $N -e "ssh -t $USER@$IP open /${1}/${N}/0"
-
   done
